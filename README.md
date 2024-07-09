@@ -2,7 +2,7 @@
 
 This repository contains an R script that performs statistical tests including the calculation of Cohen's D, power analysis, and Welch's t-test for two groups using data from a pilot study. Additionally, the script generates a boxplot for visual representation and outputs session information.
 
-Note, sample data in sample_data.csv are not the real data.
+Note, sample data in sample_data.csv are not the true data from the script.
 
 ## Contents
 
